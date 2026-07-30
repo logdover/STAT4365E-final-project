@@ -12,16 +12,17 @@ This project evaluates how well raw physical contact characteristics explain ove
 ### Visualizations
 
 #### Correlation Heatmap
-![Correlation Heatmap](correlation_heatmap.png)
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 #### OLS Test Set Residual Plot
-![Residual Plot](ols_residual_plot.png)
+![Residual Plot](images/ols_residual_plot.png)
 
 #### OLS Predicted Vs OLS Actual
-![Residual Plot](actual_vs_predicted.png)
+![Residual Plot](images/actual_vs_predicted.png)
 
 #### Feature Importance
-![Bar Plot](rf_feature_importance.png)
+![Bar Plot](images/rf_feature_importance.png)
+
 ---
 
 ## Tech & Dependencies
