@@ -9,6 +9,16 @@ This project evaluates how well raw physical contact characteristics explain ove
 
 ---
 
+### Visualizations
+
+#### Correlation Heatmap
+![Correlation Heatmap](correlation_heatmap.png)
+
+#### OLS Test Set Residual Plot
+![Residual Plot](ols_residual_plot.png)
+
+---
+
 ## Tech & Dependencies
 * **Language:** Python
 * **Libraries:** `pandas`, `numpy`, `statsmodels`, `scikit-learn`, `matplotlib`, `seaborn`
