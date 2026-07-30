@@ -9,6 +9,10 @@ This project evaluates how well raw physical contact characteristics explain ove
 
 ---
 
+Link to data: https://github.com/Hunter-Mott-31/2023_Baseball_Statcast_App/blob/main/hitter_stats.csv
+
+---
+
 ### Visualizations
 
 #### Correlation Heatmap
