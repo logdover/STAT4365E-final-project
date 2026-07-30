@@ -1,6 +1,6 @@
 # Exit Velocity to Expected Value: Predicting 2023 Offensive Production
 
-An end-to-end data science project analyzing MLB Statcast data to predict hitter performance (OPS) using physical contact profile metrics.
+A data science project analyzing MLB Statcast data to predict hitter performance (OPS) using physical contact profile metrics.
 
 ---
 
