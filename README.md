@@ -17,6 +17,11 @@ This project evaluates how well raw physical contact characteristics explain ove
 #### OLS Test Set Residual Plot
 ![Residual Plot](ols_residual_plot.png)
 
+#### OLS Predicted Vs OLS Actual
+![Residual Plot](actual_vs_predicted.png)
+
+#### Feature Importance
+![Bar Plot](rf_feature_importance.png)
 ---
 
 ## Tech & Dependencies
